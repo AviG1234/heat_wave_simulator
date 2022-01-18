@@ -10,4 +10,5 @@
  	system at the simulated 09:00:00 time the system must be turned on off and back on in under 
  	30 seconds. at that time the built in LED will tern on (assuming the bord use is of type 
 	UNO, MEGA and ZERO, if not change '#define LED_BUILTIN 13' to -> '#define LED_BUILTIN 6').
- 
+
+# it is recommended to upload the code to arduino using arduino IDE, download IDE: https://www.arduino.cc/en/software
